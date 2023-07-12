@@ -1,0 +1,8 @@
+C:\exercise 3\ConsoleAppexercise3\bin\Debug\ConsoleAppexercise3.exe.config
+C:\exercise 3\ConsoleAppexercise3\bin\Debug\ConsoleAppexercise3.exe
+C:\exercise 3\ConsoleAppexercise3\bin\Debug\ConsoleAppexercise3.pdb
+C:\exercise 3\ConsoleAppexercise3\obj\Debug\ConsoleAppexercise3.csproj.AssemblyReference.cache
+C:\exercise 3\ConsoleAppexercise3\obj\Debug\ConsoleAppexercise3.csproj.SuggestedBindingRedirects.cache
+C:\exercise 3\ConsoleAppexercise3\obj\Debug\ConsoleAppexercise3.csproj.CoreCompileInputs.cache
+C:\exercise 3\ConsoleAppexercise3\obj\Debug\ConsoleAppexercise3.exe
+C:\exercise 3\ConsoleAppexercise3\obj\Debug\ConsoleAppexercise3.pdb
